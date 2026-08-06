@@ -1,4 +1,7 @@
-## Aligning Large Vision–Language Models at Test Time: A Trajectory-Guided Structured Sampling Approach
+<h1 align="center">
+  Aligning Large Vision–Language Models at Test Time:<br>
+  A Trajectory-Guided Structured Sampling Approach
+</h1>
 
 
 <p align="center">   <a href="https://arxiv.org/abs/2608.03204"><img src="https://img.shields.io/badge/arXiv-2608.03204-b31b1b.svg" alt="arXiv"></a>   <a href="https://doi.org/10.1145/3767308.3835984"><img src="https://img.shields.io/badge/ACM%20MM-2026-0066cc.svg" alt="ACM MM 2026"></a> </p>
